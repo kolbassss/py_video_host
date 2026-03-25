@@ -1,5 +1,9 @@
-venv/
-env/
+.venv/
 __pycache__/
-.env
-*.pyc
+db.sqlite3
+media/
+videos/
+uv.lock
+docker-compose.yml
+Dockerfile
+.python-version
